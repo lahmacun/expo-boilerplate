@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Padejler",
-    "slug": "Padejler",
+    "name": "Expo Boilerplate",
+    "slug": "expo-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
